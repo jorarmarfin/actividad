@@ -1,0 +1,11 @@
+Hermanos:
+  groupname: Hermanos
+  readableName: hermanos
+  description: 'hermanos que puedan ver el portal'
+  icon: users
+  access:
+    site:
+      login: 'true'
+      pagina: 'true'
+    admin: {  }
+    admin-addon-user-manager: {  }

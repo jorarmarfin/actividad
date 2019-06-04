@@ -1,0 +1,11 @@
+state: enabled
+email: luis.mayta@gmail.com
+fullname: 'Luis Mayta'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$MQ4VtCzbjO9Y20XOLpRwNexqutfvYr/ovRcsbSRswgg/ax3oZzw2G
